@@ -32,3 +32,11 @@ To add containers to this setup, you will also need to add some environment vari
 | `LETSENCRYPT_HOST` | example.com | Y - For SSL |
 | `LETSENCRYPT_EMAIL` | example@example.com | Y - For SSL |
 
+
+## License
+
+This project is licensed under [MIT](https://opensource.org/licenses/MIT). 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+For the full License, Please see the file [LICENSE.md](LICENSE.md)
